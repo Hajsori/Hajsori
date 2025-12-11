@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@Hajsori/a98e0dbb-4e08-44ec-b416-889e10b349f3.svg"></embed></figure>
 <!--
 **Hajsori/Hajsori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
