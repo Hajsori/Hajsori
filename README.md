@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![Wakatime Stats](https://wakatime.com/share/@Hajsori/a98e0dbb-4e08-44ec-b416-889e10b349f3.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Hajsori/386eed22-648a-4e12-aa98-2ede3dbd4350.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Hajsori/a98e0dbb-4e08-44ec-b416-889e10b349f3.svg">
+  <img alt="Fallback image description" src="https://wakatime.com/share/@Hajsori/386eed22-648a-4e12-aa98-2ede3dbd4350.svg">
+</picture>
 <!--
 **Hajsori/Hajsori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
